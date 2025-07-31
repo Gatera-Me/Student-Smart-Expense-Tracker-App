@@ -42,9 +42,7 @@ Managing finances as a student can be challenging without the right tools. This 
 
 ## Screenshots
 
-| Home Screen                   | Expense Detail                    | Add/Edit Expense                           |
-| ----------------------------- | --------------------------------- | ------------------------------------------ |
-| <img width="456" height="826" alt="image" src="https://github.com/user-attachments/assets/9b922aaf-72fc-4a5b-9598-d17a4953ddec" />
+ <img width="456" height="826" alt="image" src="https://github.com/user-attachments/assets/9b922aaf-72fc-4a5b-9598-d17a4953ddec" />
  <img width="465" height="821" alt="image" src="https://github.com/user-attachments/assets/eeb084d8-726b-4416-8501-8e6d2b6cc1e5" />
  <img width="455" height="822" alt="image" src="https://github.com/user-attachments/assets/cc655bcc-05a8-4a42-bbb2-db4e854f9587" />
 <img width="460" height="821" alt="image" src="https://github.com/user-attachments/assets/7758296e-f22e-40b6-8262-011b5e0b82b8" />
